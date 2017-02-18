@@ -1,0 +1,40 @@
+@media (min-width: 320px) {
+  h1,h2,p{
+    text-align: center;
+  }
+
+  .photo img{
+    width:60%;
+    display:block;
+    margin:auto;
+  }
+
+  .photo-one img {
+    width:100%
+
+  }
+
+
+  .home, .contact, .portfolio{
+    width:90%;
+    background-color:ghostwhite;
+    margin:auto;
+
+  }
+
+}
+
+@media (min-width: 768px){
+  h1,h2 {
+    text-align:center;
+  }
+
+
+}
+
+
+
+
+  body {
+    font-family: 'Slabo 27px', serif;
+  }
